@@ -10,6 +10,8 @@ sudo apt-get upgrade
 
 // setup openssh-server g++ gdb gdbserver
 sudo apt-get install openssh-server g++ gdb gdbserver
+
+sudo service ssh start
 ```
 
 ##visual studio
